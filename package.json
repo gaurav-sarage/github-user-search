@@ -1,0 +1,16 @@
+{
+    "name": "github-user-search",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "npx tailwindcss -i input.css -o output.css --watch",
+        "deploy": "npx tailwindcss -o output.css --minify"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "tailwindcss": "^3.0.12"
+    }
+}
