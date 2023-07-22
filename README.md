@@ -1,4 +1,4 @@
-# View it [Live](https://gaurav-sarage.github.io/github-user-search) 
+# View it [Live](https://bit.ly/3O2iKwT) 
 
 Tech stack used: 
 
